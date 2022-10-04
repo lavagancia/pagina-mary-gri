@@ -44,6 +44,7 @@ html{
 .fotob{
     width: 33px;
     height: 25px;
+    background-color: green;
     
 }
  
@@ -51,7 +52,7 @@ html{
 .btn-neon{
     position: relative;
     display: inline-flex;
-   
+    background-color: white;
     color: rgb(5, 94, 66);
     letter-spacing: 0px;
     text-decoration: none;
